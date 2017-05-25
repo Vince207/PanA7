@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_list">
+        <item>Groceries</item>
+        <item>Utilities</item>
+        <item>Transportation</item>
+        <item>Entertainment</item>
+        <item>Eating Out</item>
+
+
+
+    </string-array>
+</resources>

@@ -6,6 +6,6 @@
     <string name="entertainment_name">Entertainment</string>
     <string name="eating_out_name">Eating Out</string>
     <string name="menuitem_print">Print</string>
-    <string name="menuitem_add">Add</string>
+    <string name="menuitem_add">Add New Expense</string>
 
 </resources>

@@ -12,9 +12,14 @@
     android:paddingBottom="16dp">
 
 
+    <EditText
+        android:id="@+id/spinner_edit"
+        android:inputType="number"
+        android:text="Enter Amount Spent" />
     <Spinner
         android:id="@+id/add_spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:entries="@array/spinner_list"
         android:spinnerMode="dialog"/>
 </GridLayout>
