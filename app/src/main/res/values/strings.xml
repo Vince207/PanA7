@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PanA7</string>
+    <string name="groceries_name">Groceries</string>
+    <string name="utilities_name">Utilities</string>
+    <string name="transportation_name">Transportation</string>
+    <string name="entertainment_name">Entertainment</string>
+    <string name="eating_out_name">Eating Out</string>
+    <string name="menuitem_print">Print</string>
+    <string name="menuitem_add">Add</string>
+
+</resources>

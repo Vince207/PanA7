@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PanA7</string>
+    <string name="utilities_name">Utilidades</string>
+    <string name="transportation_name">Transporte</string>
+    <string name="groceries_name">Comestibles</string>
+    <string name="entertainment_name">Entretenimiento</string>
+    <string name="eating_out_name">Comer fuera</string>
+</resources>
